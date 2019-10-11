@@ -1,0 +1,10 @@
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercicio_7\Ejercicio_7\bin\Debug\netcoreapp2.1\Ejercicio_7.deps.json
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercicio_7\Ejercicio_7\bin\Debug\netcoreapp2.1\Ejercicio_7.runtimeconfig.json
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercicio_7\Ejercicio_7\bin\Debug\netcoreapp2.1\Ejercicio_7.runtimeconfig.dev.json
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercicio_7\Ejercicio_7\bin\Debug\netcoreapp2.1\Ejercicio_7.dll
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercicio_7\Ejercicio_7\bin\Debug\netcoreapp2.1\Ejercicio_7.pdb
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercicio_7\Ejercicio_7\obj\Debug\netcoreapp2.1\Ejercicio_7.csproj.CoreCompileInputs.cache
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercicio_7\Ejercicio_7\obj\Debug\netcoreapp2.1\Ejercicio_7.AssemblyInfoInputs.cache
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercicio_7\Ejercicio_7\obj\Debug\netcoreapp2.1\Ejercicio_7.AssemblyInfo.cs
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercicio_7\Ejercicio_7\obj\Debug\netcoreapp2.1\Ejercicio_7.dll
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercicio_7\Ejercicio_7\obj\Debug\netcoreapp2.1\Ejercicio_7.pdb
