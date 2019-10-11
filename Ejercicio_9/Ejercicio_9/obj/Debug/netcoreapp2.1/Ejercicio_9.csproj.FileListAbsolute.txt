@@ -1,0 +1,11 @@
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercicio_9\Ejercicio_9\bin\Debug\netcoreapp2.1\Ejercicio_9.deps.json
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercicio_9\Ejercicio_9\bin\Debug\netcoreapp2.1\Ejercicio_9.runtimeconfig.json
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercicio_9\Ejercicio_9\bin\Debug\netcoreapp2.1\Ejercicio_9.runtimeconfig.dev.json
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercicio_9\Ejercicio_9\bin\Debug\netcoreapp2.1\Ejercicio_9.dll
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercicio_9\Ejercicio_9\bin\Debug\netcoreapp2.1\Ejercicio_9.pdb
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercicio_9\Ejercicio_9\obj\Debug\netcoreapp2.1\Ejercicio_9.csproj.CoreCompileInputs.cache
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercicio_9\Ejercicio_9\obj\Debug\netcoreapp2.1\Ejercicio_9.AssemblyInfoInputs.cache
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercicio_9\Ejercicio_9\obj\Debug\netcoreapp2.1\Ejercicio_9.AssemblyInfo.cs
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercicio_9\Ejercicio_9\obj\Debug\netcoreapp2.1\Ejercicio_9.dll
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercicio_9\Ejercicio_9\obj\Debug\netcoreapp2.1\Ejercicio_9.pdb
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercicio_9\Ejercicio_9\obj\Debug\netcoreapp2.1\Ejercicio_9.csprojAssemblyReference.cache
