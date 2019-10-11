@@ -1,0 +1,10 @@
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercico_2\Ejercico_2\bin\Debug\netcoreapp2.1\Ejercico_2.deps.json
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercico_2\Ejercico_2\bin\Debug\netcoreapp2.1\Ejercico_2.runtimeconfig.json
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercico_2\Ejercico_2\bin\Debug\netcoreapp2.1\Ejercico_2.runtimeconfig.dev.json
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercico_2\Ejercico_2\bin\Debug\netcoreapp2.1\Ejercico_2.dll
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercico_2\Ejercico_2\bin\Debug\netcoreapp2.1\Ejercico_2.pdb
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercico_2\Ejercico_2\obj\Debug\netcoreapp2.1\Ejercico_2.csproj.CoreCompileInputs.cache
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercico_2\Ejercico_2\obj\Debug\netcoreapp2.1\Ejercico_2.AssemblyInfoInputs.cache
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercico_2\Ejercico_2\obj\Debug\netcoreapp2.1\Ejercico_2.AssemblyInfo.cs
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercico_2\Ejercico_2\obj\Debug\netcoreapp2.1\Ejercico_2.dll
+C:\Users\jor-l\Documents\Proyectos de Visual\Ejercico_2\Ejercico_2\obj\Debug\netcoreapp2.1\Ejercico_2.pdb
